@@ -1,3 +1,4 @@
+![login1ok](https://user-images.githubusercontent.com/81241228/123546421-a17f5c00-d786-11eb-9951-bd15c875478f.png)
 # Lab13Web
 Nama : Zihan Zaenal Abidin
 NIM : 311910408
@@ -17,6 +18,8 @@ Kelas : TI.19.B2
 ![6aa](https://user-images.githubusercontent.com/81241228/123546248-fcfd1a00-d785-11eb-8508-66e260bf867c.png)
 6. login
 ![logiinok](https://user-images.githubusercontent.com/81241228/123546259-0b4b3600-d786-11eb-896f-c4a7c5bebdd3.png)
+![login1ok](https://user-images.githubusercontent.com/81241228/123546429-aba15a80-d786-11eb-8c26-517624e0c536.png)
+
 7.Manambahkan Auth filter
 ![6](https://user-images.githubusercontent.com/81241228/123546279-21f18d00-d786-11eb-8a7a-f050cfbf2a62.PNG)
 ![8](https://user-images.githubusercontent.com/81241228/123546295-39307a80-d786-11eb-9646-782181f99d6b.PNG)
@@ -24,3 +27,5 @@ Kelas : TI.19.B2
 ![10](https://user-images.githubusercontent.com/81241228/123546325-5c5b2a00-d786-11eb-9201-0860d71c8ce0.PNG)
 8. Logout
 ![11](https://user-images.githubusercontent.com/81241228/123546349-6d0ba000-d786-11eb-8ed3-7fe57a07d9d1.PNG)
+![logoutok](https://user-images.githubusercontent.com/81241228/123546449-ba880d00-d786-11eb-91a7-64f35b6fcc42.png)
+
