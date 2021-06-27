@@ -1,4 +1,4 @@
-![login1ok](https://user-images.githubusercontent.com/81241228/123546421-a17f5c00-d786-11eb-9951-bd15c875478f.png)
+
 # Lab13Web
 Nama : Zihan Zaenal Abidin
 NIM : 311910408
